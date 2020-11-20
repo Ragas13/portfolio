@@ -1,0 +1,3 @@
+[submodule "name.abuchen.portfolio/src/name/abuchen/portfolio/datatransfer/json"]
+	path = name.abuchen.portfolio/src/name/abuchen/portfolio/datatransfer/json
+	url = git://github.com/Ragas13/JSON.git
